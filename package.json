@@ -1,0 +1,18 @@
+{
+  "name": "Gulp-starter",
+  "version": "0.1.0",
+  "repository": "https://github.com/blacksheep/gulp-starter",
+  "description": "scss/sass + livereload environment",
+  "dependencies": {
+    "connect": "^3.4.0",
+    "connect-livereload": "^0.5.3",
+    "gulp": "^3.8.5",
+    "gulp-livereload": "^3.8.0",
+    "gulp-sass": "^2.0.4",
+    "opn": "^3.0.2",
+    "serve-static": "^1.10.0"
+  },
+  "scripts": {
+    "start": "gulp"
+  }
+}
